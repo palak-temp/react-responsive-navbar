@@ -39,6 +39,11 @@ function App() {
               Blog
             </a>
           </li>
+          <li className="navbar-item">
+            <a href="#" className="navbar-link">
+              Portfolio
+            </a>
+          </li>
         </ul>
       </div>
     </nav>
